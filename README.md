@@ -1,16 +1,42 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Yerson</h1>
+<h3 align="center">Music + Code = ✨</h3>
 
-<!--
-**Yerson-Borda/Yerson-Borda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I've held roles in Hardware, Ops and QA. I'm passionate about all things Hardware and Software. Due to my interests, I consider myself a jack of all trades - a master of some. In my spare time I enjoy electronics design, software development and conducting ethical cybersecurity research. 
 
-Here are some ideas to get you started:
+Looking forward to sharing knowledge and collaborating with you.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-----------
+
+- 🔭 I’m currently working on: **Mobile applications projects**
+
+- 🌱 I’m currently learning: **TypeScript and Python**
+  
+- 📫 How to reach me: **Open an issue in any of my repos**
+
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=yerson-borda&show_icons=true&theme=outrun&locale=en" alt="yerson-borda" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yerson-borda&show_icons=true&theme=outrun&locale=en&layout=compact" alt="yerson-borda" /></p>
+
+-----------
+<h3 align="left">Languages and Tools:</h3>
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Rafa-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="Rafa-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
+</div>
+
+-----------
+ 
+<div> 
+  <a href = "https://t.me/YersonRss"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+  <a href = "https://vk.com/br1ans"><img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" target="_blank"></a>
+  <a href = "mailto:kira_yerson2407@mail.ru"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+
