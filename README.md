@@ -35,8 +35,8 @@ I'm passionate about all things Hardware and Software. Due to my interests, I co
 -----------
  
 <div> 
-  <a href = "https://t.me/YersonRss"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
-  <a href = "https://vk.com/br1ans"><img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" target="_blank"></a>
-  <a href = "mailto:kira_yerson2407@mail.ru"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "https://t.me/YersonRss" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+  <a href = "https://vk.com/br1ans" target="_blank"><img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" target="_blank"></a>
+  <a href = "mailto:kira_yerson2407@mail.ru" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
