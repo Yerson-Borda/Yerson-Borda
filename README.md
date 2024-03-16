@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yerson</h1>
 <h3 align="center">Music + Code = ✨</h3>
 
-I've held roles in Hardware, Ops and QA. I'm passionate about all things Hardware and Software. Due to my interests, I consider myself a jack of all trades - a master of some. In my spare time I enjoy electronics design, software development and conducting ethical cybersecurity research. 
+I'm passionate about all things Hardware and Software. Due to my interests, I consider myself a jack of all trades - a master of some. In my spare time I enjoy learning languages, software development and conducting ethical cybersecurity research. 
 
 <!--Looking forward to sharing knowledge and collaborating with you.-->
 
