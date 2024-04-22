@@ -1,24 +1,32 @@
-<h1 align="center">Hi 👋, I'm Yerson</h1>
-<h3 align="center">Music + Code = ✨</h3>
+<div style="display: inline_block" align="center">
+   <a>
+       <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=false&textBg=false"/>
+   </a>
 
-I'm passionate about Hardware and Software. Due to my interests, I consider myself a jack of all trades - a master of some. In my spare time I enjoy learning languages, software development and conducting ethical cybersecurity research. 
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c8e4fc&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Yerson;I'm+from+Peru;I'm+a+Frontend+Developer;Be+Welcome!+ツ)
+
+  <h3 align="center">Music + Code = ✨</h3>
+
 
 -----------
 
-- 🔭 I’m currently working on: **Mobile applications projects**
+ 🔭 I’m currently working on: **Mobile applications projects**
 
-- 🌱 I’m currently learning: **TypeScript and Python**
+ 🌱 I’m currently learning: **TypeScript and Python**
   
-- 📫 How to reach me: **Open an issue in any of my repos**
+ 📫 How to reach me: **Open an issue in any of my repos**
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yerson-Borda&theme=outrun)
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=yerson-borda&show_icons=true&theme=outrun&locale=en" alt="yerson-borda" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yerson-borda&show_icons=true&theme=outrun&locale=en&layout=compact" alt="yerson-borda" /></p>
+   <img height="190rem" src="https://github-readme-stats.vercel.app/api?username=yerson-borda&show_icons=true&title_color=f5c404&icon_color=eb1ced&text_color=7b7bf1&bg_color=00000000&border_radius=15&border_color=00000000&count_private=true&hide=contribs&hide_rank=true"/>
+   
+   <img height="190rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yerson-borda&langs_count=6&layout=compact&title_color=f5c404&icon_color=eb1ced&text_color=7b7bf1&bg_color=00000000&border_radius=15&border_color=00000000&hide=jupyter%20notebook"/>
+
+
+
 
 -----------
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -40,3 +48,8 @@ I'm passionate about Hardware and Software. Due to my interests, I consider myse
   <a href = "mailto:kira_yerson2407@mail.ru" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
+ <a href="#">
+     <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=false&textBg=false&section=footer"/>
+ </a> 
+ 
+ </div>
