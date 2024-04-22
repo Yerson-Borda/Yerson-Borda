@@ -11,6 +11,8 @@ I'm passionate about Hardware and Software. Due to my interests, I consider myse
   
 - 📫 How to reach me: **Open an issue in any of my repos**
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yerson-Borda&theme=outrun)
+
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=yerson-borda&show_icons=true&theme=outrun&locale=en" alt="yerson-borda" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yerson-borda&show_icons=true&theme=outrun&locale=en&layout=compact" alt="yerson-borda" /></p>
