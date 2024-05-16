@@ -3,7 +3,7 @@
        <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=false&textBg=false"/>
    </a>
 
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c8e4fc&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Yerson;I'm+from+Peru;I'm+a+Full-Stack+Developer;Be+Welcome!+ツ)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c8e4fc&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Yerson;I'm+from+Peru;I'm+an+Android+Developer;Be+Welcome!+ツ)
 
   <h3 align="center">Music + Code = ✨</h3>
 
