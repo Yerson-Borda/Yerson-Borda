@@ -12,7 +12,7 @@
 
  🔭 I’m currently working on: **Mobile applications projects**
 
- 🌱 I’m currently learning: **TypeScript and Python**
+ 🌱 I’m currently learning: **Python**
   
  📫 How to reach me: **Open an issue in any of my repos**
 
