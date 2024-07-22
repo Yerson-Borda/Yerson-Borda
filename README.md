@@ -11,12 +11,11 @@
 
 ### <samp>📃 | ABOUT ME</samp>
 
-- 🎓 I'm currently studying Software Engineering at Tomsk State University.
-- 💡 Proactive and a natural self-learner, which enables me to quickly adapt and learn in new situations.
-- 🚀 I like to keep up on date of new technologies and develop software and Apps.
-- 🌐 You can reach me by opening an issue in any of my repos.
-- 📄 My [Resume](https://docslINK) for more details about me.
-
+- <h3><samp>🎓 I'm currently studying Software Engineering at Tomsk State University. </samp></h3>
+- <h3><samp>💡 Proactive and a natural self-learner, which enables me to quickly adapt and learn in new situations. </samp></h3>
+- <h3><samp>🚀 I like to keep up on date of new technologies and develop software and Apps. </samp></h3>
+- <h3><samp>🌐 You can reach me by opening an issue in any of my repos. </samp></h3>
+- <h3><samp>📄 My [Resume](https://docslINK) for more details about me. </samp></h3>
 
 <!-- GITHUB STATS -->
 
