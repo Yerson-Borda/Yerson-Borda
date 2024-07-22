@@ -4,7 +4,7 @@
 <!-- TITLE -->
 
 <div style="display: inline_block" align="center">
-   <h1 align="center"><samp>- 🐱‍💻 <samp>Hallo!, I'm Yerson Borda</samp> -</samp></h1>
+   <h1 align="center"><samp>- <img width="50px" align="left" src="https://media.tenor.com/Aq4nnClR37AAAAAi/nervous-dog-spinning.gif" /> <samp>Hallo!, I'm Yerson Borda <img width="50px" align="right" src="https://media.tenor.com/Aq4nnClR37AAAAAi/nervous-dog-spinning.gif" /></samp> -</samp></h1>
 </div>
 
 <!-- ABOUT ME -->
