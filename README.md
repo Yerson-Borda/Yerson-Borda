@@ -15,8 +15,7 @@
 - <h4><samp>💡 Proactive and a natural self-learner, which enables me to quickly adapt and learn in new situations. </samp></h4>
 - <h4><samp>🚀 I like to keep up on date of new technologies and develop software and Apps. </samp></h4>
 - <h4><samp>🌐 You can reach me by opening an issue in any of my repos. </samp></h4>
-- <h4><samp>📄 My [Resume](https://docslINK) for more details about me. </samp></h4>
-
+- <h4><samp>📄 My <a href="https://docslINK">Resume</a> for more details about me. </samp></h4>
 <!-- GITHUB STATS -->
 
 ### <samp>📈 | MY GITHUB STATS</samp>
