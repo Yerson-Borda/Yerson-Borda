@@ -18,6 +18,7 @@
 - <h4><samp>📄 My <a href="https://docslINK">Resume</a> for more details about me. </samp></h4>
 <!-- GITHUB STATS -->
 
+<!--
 ### <samp>📈 | MY GITHUB STATS</samp>
 
 <div style="display: inline_block" align="center">
@@ -25,6 +26,8 @@
    
    <img height="190rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yerson-borda&langs_count=6&layout=compact&title_color=f5c404&icon_color=eb1ced&text_color=7b7bf1&bg_color=00000000&border_radius=15&border_color=00000000&hide=jupyter%20notebook"/>
 </div>
+
+-->
 
 <!-- LANGUAGES AND TOOLS -->
 
