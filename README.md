@@ -2,7 +2,6 @@
     <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=80&color=gradient&reversal=false&textBg=false"/>
 </a>
 <!-- TITLE -->
-
 <div style="display: inline_block" align="center">
    <h1 align="center"><samp>- <img width="50px" src="https://media.tenor.com/Aq4nnClR37AAAAAi/nervous-dog-spinning.gif" /> <samp>Hallo!, I'm Yerson Borda <img width="50px" src="https://media.tenor.com/Aq4nnClR37AAAAAi/nervous-dog-spinning.gif" /></samp> -</samp></h1>
 </div>
