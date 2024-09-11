@@ -14,7 +14,7 @@
 - <h4><samp>💡 Proactive and a natural self-learner, which enables me to quickly adapt and learn in new situations. </samp></h4>
 - <h4><samp>🚀 I like to keep up on date of new technologies and develop software and Apps. </samp></h4>
 - <h4><samp>🌐 You can reach me by opening an issue in any of my repos. </samp></h4>
-- <h4><samp>📄 My <a href="https://docslINK">Resume</a> for more details about me. </samp></h4>
+- <h4><samp>📄 My <a href="https://docs.google.com/document/d/1j0-Kj74NroulaWyRmcQNssm03oNOyiKmPRx5S7-ic_E/edit?usp=sharing">Resume</a> for more details about me. </samp></h4>
 <!-- GITHUB STATS -->
 
 <!--
@@ -47,7 +47,7 @@
    <img align="center" alt="Rafa-figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
    <img align="center" alt="Rafa-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
    <img align="center" alt="Rafa-linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-   <img align="center" alt="Rafa-MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+<!--    <img align="center" alt="Rafa-MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"> -->
 </div>
 
 <!-- SOCIAL NETWORKS -->
