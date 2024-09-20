@@ -65,7 +65,7 @@
 <!-- MORE INFO -->
 
 <details>
-  <summary>📃 My Resume</summary>
+  <summary>📃 Details </summary>
 
 ## Education
 
