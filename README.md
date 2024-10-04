@@ -65,7 +65,7 @@
 <!-- MORE INFO -->
 
 <details>
-  <summary>📃 Details </summary>
+  <summary><strong>📄 Details</strong></summary>
 
 ## Education
 
