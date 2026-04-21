@@ -1,57 +1,40 @@
 <a>
-    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=80&color=gradient&reversal=false&textBg=false"/>
+	<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=80&color=gradient&reversal=false&textBg=false"/>
 </a>
+
 <!-- TITLE -->
-<div style="display: inline_block" align="center">
-   <h1 align="center"><samp>- <img width="50px" src="https://media.tenor.com/Aq4nnClR37AAAAAi/nervous-dog-spinning.gif" /> <samp>Hallo!, I'm Yerson Borda <img width="50px" src="https://media.tenor.com/Aq4nnClR37AAAAAi/nervous-dog-spinning.gif" /></samp> -</samp></h1>
-</div>
+<p align="center">
+   <h1 align="center"><samp><img width="50px" src="https://media.tenor.com/Aq4nnClR37AAAAAi/nervous-dog-spinning.gif"/><samp> Hallo!, I'm Yerson Borda <img width="50px" src="https://media.tenor.com/Aq4nnClR37AAAAAi/nervous-dog-spinning.gif" /></samp></samp></h1>
+</p>
 
 <!-- ABOUT ME -->
-
 ### <samp>📃 | ABOUT ME</samp>
-
-- <h4><samp>🎓 I'm currently studying Software Engineering at Tomsk State University. </samp></h4>
-- <h4><samp>💡 Proactive and a natural self-learner, which enables me to quickly adapt and learn in new situations. </samp></h4>
-- <h4><samp>🚀 I like to keep up on date of new technologies and develop software and Apps. </samp></h4>
-- <h4><samp>🌐 You can reach me by opening an issue in any of my repos. </samp></h4>
-- <h4><samp>📄 My <a href="https://docs.google.com/document/d/1j0-Kj74NroulaWyRmcQNssm03oNOyiKmPRx5S7-ic_E/edit?usp=sharing">Resume</a> for more details about me. </samp></h4>
-<!-- GITHUB STATS -->
-
-<!--
-### <samp>📈 | MY GITHUB STATS</samp>
-
-<div style="display: inline_block" align="center">
-   <img height="190rem" src="https://github-readme-stats.vercel.app/api?username=yerson-borda&show_icons=true&title_color=f5c404&icon_color=eb1ced&text_color=7b7bf1&bg_color=00000000&border_radius=15&border_color=00000000&count_private=true&hide=contribs&hide_rank=true"/>
-   
-   <img height="190rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yerson-borda&langs_count=6&layout=compact&title_color=f5c404&icon_color=eb1ced&text_color=7b7bf1&bg_color=00000000&border_radius=15&border_color=00000000&hide=jupyter%20notebook"/>
-</div>
-
--->
+- <h4>🎓 Software Engineer focused on Android, backend, and scalable system design. </h4>
+- <h4>📱 2+ years building Android apps (Kotlin, MVVM) and REST APIs with .NET, Java, and Ktor.</h4>
+- <h4>👥 Led teams to develop cross-platform web and mobile applications using Agile + Git workflows.</h4>
+- <h4>⚙️ Experienced with clean architecture, Docker, PostgreSQL, and modern backend technologies.</h4>
+- <h4>🎨 Passionate about UX/UI, and data engineering.</h4>
+- <h4>🚀 Proactive learner, 50+ pair programming sessions and continuous experimentation with new technologies.</h4>
+- <h4>🌐 You can reach me by opening an issue in any of my repos.</h4>
+- <h4>📄 My <a href="https://docs.google.com/document/d/1j0-Kj74NroulaWyRmcQNssm03oNOyiKmPRx5S7-ic_E/edit?usp=sharing">Resume</a> for more details.</h4>
 
 <!-- LANGUAGES AND TOOLS -->
-
 <h3 align="center"><samp>- LANGUAGES AND TOOLS -</samp></h3>
-
-<div style="display: inline_block" align="center">
-   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-   <img align="center" alt="Rafa-Astro" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/astro/astro-original.svg">
-<!-- <img align="center" alt="Rafa-NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> -->
-<!-- <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> -->
-<!-- <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> -->
-<!-- <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> -->
-<!-- <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> -->
-<!-- <img align="center" alt="Rafa-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> -->
-   <img align="center" alt="Rafa-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
-   <img align="center" alt="Rafa-figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-   <img align="center" alt="Rafa-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-   <img align="center" alt="Rafa-linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-<!--    <img align="center" alt="Rafa-MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"> -->
-</div>
+<p align="center">
+  <img alt="Java" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img alt="Kotlin" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
+  <img alt="TypeScript" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img alt="Python" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img alt="C#" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img alt="React" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img alt="Astro" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/astro/astro-original.svg">
+  <img alt="Figma" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+  <img alt="Git" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img alt="Linux" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img alt="PostgreSQL" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+</p>
 
 <!-- SOCIAL NETWORKS -->
-
 <h3 align="center"><samp>- SOCIAL NETWORKS -</samp></h3>
 <p align="center"
    <div style="display: inline_block" align="center">
@@ -63,67 +46,57 @@
 <p align="center">📫<i> Click on the images to get personal/professional contact.</i></p>
 
 <!-- MORE INFO -->
-
 <details>
   <summary><strong>📄 Details</strong></summary>
 
-## Education
+## 🎓 Education
 
-- 📖 **Software Engineer**\
-📆 2022 - 2026\
-📍 **TSU - Tomsk State University** - Tomsk, Russia
+- 📖 **BSc in Software Engineering**  
+  📆 2022 – 2026  
+  📍 **Tomsk State University (TSU)** — Tomsk, Russia
 
-## Experience
+## 📚 Courses & Certifications
 
-- 👨‍💻 **C - Bash Practices**\
-📆 2024 - Currently\
-📍 **School-21** - Novosibirk, Russia
+- 🎓 **IBM Java Developer Professional Certificate** — Coursera (2025)  
+  Java · OOP · REST APIs · Backend Development  
 
-<img align="right" src="https://img.shields.io/badge/C-20232A?&logo=c&logoColor=61DAFB" />
-<img align="right" src="https://img.shields.io/badge/Git-323330?logo=git&logoColor=CC342D" />
-<img align="right" src="https://img.shields.io/badge/BASH-20232A?logo=gnu-bash&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Linux-20232A?&logo=linux&logoColor=white" />
+- 🎓 **Meta Android Developer Professional Certificate** — Coursera (2025)  
+  Kotlin · Jetpack Compose · MVVM · Android Development  
+
+- 🎓 **Microsoft SQL Server Professional Certificate** — Coursera (2025)  
+  SQL · Database Design · Performance Optimization  
+
+- 🎓 **Google Agile Project Management** — Coursera (2025)  
+  Scrum · Kanban · Agile Workflows · Team Collaboration  
+
+## 💼 Professional Experience
+
+### 👨‍💻 Software Engineer Intern — Tomsk State University
+📆 January 2024 – June 2024  
+📍 Tomsk, Russia  
+
+- Built a REST API for a food delivery web application using .NET  
+- Developed **ScareMe** Android app with Kotlin, Jetpack Compose, and MVVM  
+- Led a team of 4 in developing scalable web + mobile applications  
+- Participated in architecture design and task coordination  
+- Conducted code reviews and 50+ pair programming sessions  
+- Worked with Agile methodology and Git-based workflows  
+
+**Tech:** Kotlin · .NET · Jetpack Compose · MVVM · REST · Git · Agile  
+
+### 🏨 Software Engineer — 3 Balcones Hotel
+📆 October 2025 – December 2025  
+📍 Ayacucho, Peru  
+
+- Developed integrated desktop and mobile hotel management system  
+- Implemented booking, customer, and room administration features  
+- Ensured synchronization between mobile and desktop applications  
+- Participated in requirements analysis, design, implementation, and testing  
+
+**Tech:** Kotlin · C# · .NET · SQLite · Mobile + Desktop  
 
 ---
-<!--
 
-- 👨‍💻 **Android Developer**\
-📆 2025 - Currently\
-📍 **T-Bank** - Tomsk, Russia
-
-<img align="right" src="https://img.shields.io/badge/React-20232A?&logo=react&logoColor=61DAFB" />
-<img align="right" src="https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E" />
-<img align="right" src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Ruby-CC342D?&logo=ruby&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Jest-323330?logo=Jest&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/testing%20library-323330?logo=testing-library&logoColor=red" />
-<img align="right" src="https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Material--UI-0081CB?logo=material-ui&logoColor=white" />
-	
---- 
--->
-
-<!--
-## Skills
-
-<img align="right" src="https://img.shields.io/badge/(My)SQL-4479A1?logo=mysql&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/BASH-4EAA25?logo=gnu-bash&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/C Sharp-239120?logo=c-sharp&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white" />
-
-**Programming**
-
-<img align="right" src="https://img.shields.io/badge/Arch-1793D1?logo=arch-linux&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Fedora-294172?logo=fedora&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
-
-**Operating Systems** 
--->
 <a href="#">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=80&color=gradient&reversal=false&textBg=false&section=footer"/>
 </a> 
